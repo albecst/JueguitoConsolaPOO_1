@@ -3,3 +3,5 @@ En este juego, moveremos un personaje que irá pasando de una sala a otra.
 El objeto es llegar al balcón, para así terminar el juego.
 Lo gracioso es que te encontrarás con portales, salas sin salida e incluso alguna que otra puerta con contraseña.
 ¿Te atreves?
+
+No deja de ser algo simple, pero como un primer contacto con la POO en Python, creo que está bastante bien.
